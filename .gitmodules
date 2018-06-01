@@ -1,3 +1,0 @@
-[submodule "expense-manager"]
-	path = expense-manager
-	url = git@github.com:dmitryevseev/expense-manager.git
